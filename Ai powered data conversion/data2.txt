@@ -1,0 +1,133 @@
+{
+  "input_table": {
+    "headers": ["EMPLOYEE_ID", "EMPLOYEE_NAME", "DEPT_ID", "SALARY", "JOIN_DATE"],
+    "row": ["1101", "Rajeev Kumar", "D10", "80000", "2015-03-06"]
+  },
+  "output_json": {
+    "EMPLOYEE_ID": "1101",
+    "EMPLOYEE_NAME": "Rajeev Kumar",
+    "DEPT_ID": "D10",
+    "SALARY": "80000",
+    "JOIN_DATE": "2015-03-06"
+  }
+}
+
+{
+  "input_table": {
+    "headers": ["EMPLOYEE_ID", "EMPLOYEE_NAME", "DEPT_ID", "SALARY", "JOIN_DATE"],
+    "row": ["1102", "Susan Li", "D20", "95000", "2018-12-11"]
+  },
+  "output_json": {
+    "EMPLOYEE_ID": "1102",
+    "EMPLOYEE_NAME": "Susan Li",
+    "DEPT_ID": "D20",
+    "SALARY": "95000",
+    "JOIN_DATE": "2018-12-11"
+  }
+}
+
+{
+  "input_table": {
+    "headers": ["EMPLOYEE_ID", "EMPLOYEE_NAME", "DEPT_ID", "SALARY", "JOIN_DATE"],
+    "row": ["1103", "Michael Chen", "D10", "72000", "2016-08-01"]
+  },
+  "output_json": {
+    "EMPLOYEE_ID": "1103",
+    "EMPLOYEE_NAME": "Michael Chen",
+    "DEPT_ID": "D10",
+    "SALARY": "72000",
+    "JOIN_DATE": "2016-08-01"
+  }
+}
+
+{
+  "input_table": {
+    "headers": ["EMPLOYEE_ID", "EMPLOYEE_NAME", "DEPT_ID", "SALARY", "JOIN_DATE"],
+    "row": ["1104", "Priya Singh", "D30", "88000", "2019-04-15"]
+  },
+  "output_json": {
+    "EMPLOYEE_ID": "1104",
+    "EMPLOYEE_NAME": "Priya Singh",
+    "DEPT_ID": "D30",
+    "SALARY": "88000",
+    "JOIN_DATE": "2019-04-15"
+  }
+}
+
+{
+  "input_table": {
+    "headers": ["EMPLOYEE_ID", "EMPLOYEE_NAME", "DEPT_ID", "SALARY", "JOIN_DATE"],
+    "row": ["1105", "David Park", "D20", "67000", "2017-07-22"]
+  },
+  "output_json": {
+    "EMPLOYEE_ID": "1105",
+    "EMPLOYEE_NAME": "David Park",
+    "DEPT_ID": "D20",
+    "SALARY": "67000",
+    "JOIN_DATE": "2017-07-22"
+  }
+}
+
+{
+  "input_table": {
+    "headers": ["EMPLOYEE_ID", "EMPLOYEE_NAME", "DEPT_ID", "SALARY", "JOIN_DATE"],
+    "row": ["1106", "Linda Thomas", "D30", "93000", "2020-11-05"]
+  },
+  "output_json": {
+    "EMPLOYEE_ID": "1106",
+    "EMPLOYEE_NAME": "Linda Thomas",
+    "DEPT_ID": "D30",
+    "SALARY": "93000",
+    "JOIN_DATE": "2020-11-05"
+  }
+}
+
+{
+  "input_table": {
+    "headers": ["EMPLOYEE_ID", "EMPLOYEE_NAME", "DEPT_ID", "SALARY", "JOIN_DATE"],
+    "row": ["1107", "Carlos Martinez", "D10", "71000", "2018-03-18"]
+  },
+  "output_json": {
+    "EMPLOYEE_ID": "1107",
+    "EMPLOYEE_NAME": "Carlos Martinez",
+    "DEPT_ID": "D10",
+    "SALARY": "71000",
+    "JOIN_DATE": "2018-03-18"
+  }
+}
+
+{
+  "input_table": {
+    "headers": ["DEPT_ID", "DEPT_NAME", "LOCATION"],
+    "row": ["D10", "R&D", "Bangalore"]
+  },
+  "output_json": {
+    "DEPT_ID": "D10",
+    "DEPT_NAME": "R&D",
+    "LOCATION": "Bangalore"
+  }
+}
+
+{
+  "input_table": {
+    "headers": ["DEPT_ID", "DEPT_NAME", "LOCATION"],
+    "row": ["D20", "Finance", "Delhi"]
+  },
+  "output_json": {
+    "DEPT_ID": "D20",
+    "DEPT_NAME": "Finance",
+    "LOCATION": "Delhi"
+  }
+}
+
+{
+  "input_table": {
+    "headers": ["DEPT_ID", "DEPT_NAME", "LOCATION"],
+    "row": ["D30", "HR", "Mumbai"]
+  },
+  "output_json": {
+    "DEPT_ID": "D30",
+    "DEPT_NAME": "HR",
+    "LOCATION": "Mumbai"
+  }
+}

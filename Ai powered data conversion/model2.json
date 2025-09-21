@@ -1,0 +1,25 @@
+{
+    "model": "mistral",
+    "format": null,
+    "options": {
+        "mirostat": null,
+        "mirostat_eta": null,
+        "mirostat_tau": null,
+        "num_ctx": null,
+        "num_gpu": null,
+        "num_thread": null,
+        "num_predict": null,
+        "repeat_last_n": null,
+        "repeat_penalty": null,
+        "temperature": null,
+        "stop": null,
+        "tfs_z": null,
+        "top_k": null,
+        "top_p": null
+    },
+    "system": null,
+    "template": null,
+    "keep_alive": null,
+    "raw": null,
+    "_type": "ollama-llm"
+}
